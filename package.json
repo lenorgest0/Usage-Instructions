@@ -1,0 +1,26 @@
+{
+"name": "hututumamawsmyao88-wljiuge",
+"version": "1.0.0",
+"description": "By reading the project documentation, you can learn how to utilize various features of the project",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lenorgest0/Usage-Instructions.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lenorgest0",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
